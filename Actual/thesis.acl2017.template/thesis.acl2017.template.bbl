@@ -1,0 +1,103 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Brokos et~al.(2016)Brokos, Malakasiotis, and
+  Androutsopoulos}]{Brokos:2016}
+Georgios-Ioannis Brokos, Prodromos Malakasiotis, and Ion Androutsopoulos. 2016.
+\newblock \href{http://anthology.aclweb.org/W16-2915}{Using centroids of word
+  embeddings and word mover's distance for biomedical document retrieval in
+  question answering}.
+\newblock In {\em Proceedings of the 15th Workshop on Biomedical Natural
+  Language Processing\/}. Association for Computational Linguistics, Berlin,
+  Germany, pages 114--118.
+\newblock
+  \href{http://anthology.aclweb.org/W16-2915}{http://anthology.aclweb.org/W16-2915}.
+
+\bibitem[{Graham(2015)}]{Graham:2015}
+Yvette Graham. 2015.
+\newblock \href{http://aclweb.org/anthology/D15-1013}{Re-evaluating automatic
+  summarization with bleu and 192 shades of rouge}.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing\/}. Association for Computational Linguistics,
+  Trinity College, Dublin, pages 128--137.
+\newblock
+  \href{http://aclweb.org/anthology/D15-1013}{http://aclweb.org/anthology/D15-1013}.
+
+\bibitem[{Kingma and Ba(2014)}]{Kingma:2014}
+Diederik Kingma and Jimmy Ba. 2014.
+\newblock Adam: A method for stochastic optimization .
+
+\bibitem[{Kusner et~al.(2015)Kusner, Sun, Kolkin, and Weinberger}]{Kusner:2015}
+M.~Kusner, Y.~Sun, N.~Kolkin, and K.~Q. Weinberger. 2015.
+\newblock From word embeddings to document distances.
+\newblock In {\em In Proc. of the 32nd International Conference on Machine
+  Learning\/}. Lille, France, pages 957--966.
+
+\bibitem[{Lin(2004)}]{Lin:2004}
+Chin-Yew Lin. 2004.
+\newblock Rouge: A package for automatic evaluation of summaries.
+\newblock Association for Computational Linguistics, Barcelona, Spain, pages
+  74--81.
+
+\bibitem[{Lin and Hovy(2003)}]{Lin_Hovy:2003}
+Chin-Yew Lin and Eduard Hovy. 2003.
+\newblock Automatic evaluation of summaries using n-gram cooccurrence
+  statistics.
+\newblock Edmonton, Canada, pages 71--78.
+
+\bibitem[{Manning et~al.(2008)Manning, Raghavan, and Schutze}]{Manning:2008}
+C.D. Manning, P.~Raghavan, and H.~Schutze. 2008.
+\newblock {\em Introduction to Information Retrieval\/}.
+\newblock Cambridge University Press.
+
+\bibitem[{Ng and Abrecht(2015)}]{Ng:2015}
+Jun-Ping Ng and Viktoria Abrecht. 2015.
+\newblock \href{http://aclweb.org/anthology/D15-1222}{Better summarization
+  evaluation with word embeddings for rouge}.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing\/}. Association for Computational Linguistics,
+  Lisbon, Portugal, pages 1925--1930.
+\newblock
+  \href{http://aclweb.org/anthology/D15-1222}{http://aclweb.org/anthology/D15-1222}.
+
+\bibitem[{Over and Yen(2004)}]{Over:2004}
+Paul Over and James Yen. 2004.
+\newblock An introduction to duc 2004 intrinsic evaluation of generic new text
+  summarization systems.
+\newblock n Proceedings of the Document Understanding Conference (DUC).
+
+\bibitem[{Owczarzak et~al.(2012)Owczarzak, Conroy, Dang, and
+  Nenkova}]{Owczarzak:2012}
+Karolina Owczarzak, John~M. Conroy, Hoa~Trang Dang, and Ani Nenkova. 2012.
+\newblock \href{http://www.aclweb.org/anthology/W12-2601}{An assessment of the
+  accuracy of automatic evaluation in summarization}.
+\newblock In {\em Proceedings of Workshop on Evaluation Metrics and System
+  Comparison for Automatic Summarization\/}. Association for Computational
+  Linguistics, Montr\'{e}al, Canada, pages 1--9.
+\newblock
+  \href{http://www.aclweb.org/anthology/W12-2601}{http://www.aclweb.org/anthology/W12-2601}.
+
+\bibitem[{Rankel et~al.(2013)Rankel, Conroy, Dang, and Nenkova}]{Rankel:2013}
+Peter~A. Rankel, John~M. Conroy, Hoa~Trang Dang, and Ani Nenkova. 2013.
+\newblock \href{http://www.aclweb.org/anthology/P13-2024}{A decade of automatic
+  content evaluation of news summaries: Reassessing the state of the art}.
+\newblock In {\em Proceedings of the 51st Annual Meeting of the Association for
+  Computational Linguistics (Volume 2: Short Papers)\/}. Association for
+  Computational Linguistics, Sofia, Bulgaria, pages 131--136.
+\newblock
+  \href{http://www.aclweb.org/anthology/P13-2024}{http://www.aclweb.org/anthology/P13-2024}.
+
+\bibitem[{Tsatsaronis et~al.(2015)Tsatsaronis, Balikas, Malakasiotis, Partalas,
+  Zschunke, Alvers, Weissenborn, Krithara, Petridis, Polychronopoulos,
+  Almirantis, Pavlopoulos, Baskiotis, Gallinari, Artieres, Ngonga, Heino,
+  Gaussier, Barrio-Alvers, Schroeder, Androutsopoulos, and
+  Paliouras}]{Tsatsaronis:2015}
+G.~Tsatsaronis, G.~Balikas, P.~Malakasiotis, I.~Partalas, M.~Zschunke, M.R.
+  Alvers, D.~Weissenborn, A.~Krithara, S.~Petridis, D.~Polychronopoulos,
+  Y.~Almirantis, J.~Pavlopoulos, N.~Baskiotis, P.~Gallinari, T.~Artieres,
+  A.~Ngonga, N.~Heino, E.~Gaussier, L.~Barrio-Alvers, M.~Schroeder,
+  I.~Androutsopoulos, and G.~Paliouras. 2015.
+\newblock An overview of the bioasq large-scale biomedical semantic indexing
+  and question answering competition. .
+
+\end{thebibliography}

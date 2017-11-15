@@ -1,0 +1,124 @@
+@InProceedings{Lin_Hovy:2003,
+	author	= {Chin-Yew Lin and Eduard Hovy},
+	year	= {2003},
+	title 	= {Automatic evaluation of summaries using n-gram cooccurrence statistics.},
+	journal = {2003 Conf. North American Chapter of the Association for Computational Linguistics on Human Language Technology},
+	pages 	= {71--78},
+	address = {Edmonton, Canada} 
+}
+
+@InProceedings{Lin:2004,
+	author	= {Chin-Yew Lin},
+	title 	= {Rouge: A package for automatic evaluation of summaries.},
+	journal = {Text Summarization Branches Out: Proceedings of the ACL-04 Workshop},	
+	month 	= {July},		
+	year 	= {2004},
+	address	= {Barcelona, Spain},	
+	publisher = {Association for Computational Linguistics},	
+	pages 	= {74--81}
+}
+
+@InProceedings{Graham:2015,
+  author    = {Graham, Yvette},
+  title     = {Re-evaluating Automatic Summarization with BLEU and 192 Shades of ROUGE},
+  booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+  month     = {September},
+  year      = {2015},
+  address   = {Trinity College, Dublin},
+  publisher = {Association for Computational Linguistics},
+  pages     = {128--137},
+  url       = {http://aclweb.org/anthology/D15-1013}
+}
+
+@InProceedings{Owczarzak:2012,
+  author    = {Owczarzak, Karolina  and  Conroy, John M.  and  Dang, Hoa Trang  and  Nenkova, Ani},
+  title     = {An Assessment of the Accuracy of Automatic Evaluation in Summarization},
+  booktitle = {Proceedings of Workshop on Evaluation Metrics and System Comparison for Automatic Summarization},
+  month     = {June},
+  year      = {2012},
+  address   = {Montr\'{e}al, Canada},
+  publisher = {Association for Computational Linguistics},
+  pages     = {1--9},
+  url       = {http://www.aclweb.org/anthology/W12-2601}
+}
+
+@InProceedings{Rankel:2013,
+  author    = {Rankel, Peter A.  and  Conroy, John M.  and  Dang, Hoa Trang  and  Nenkova, Ani},
+  title     = {A Decade of Automatic Content Evaluation of News Summaries: Reassessing the State of the Art},
+  booktitle = {Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+  month     = {August},
+  year      = {2013},
+  address   = {Sofia, Bulgaria},
+  publisher = {Association for Computational Linguistics},
+  pages     = {131--136},
+  url       = {http://www.aclweb.org/anthology/P13-2024}
+}
+
+@InProceedings{Ng:2015,
+  author    = {Ng, Jun-Ping  and  Abrecht, Viktoria},
+  title     = {Better Summarization Evaluation with Word Embeddings for ROUGE},
+  booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing},
+  month     = {September},
+  year      = {2015},
+  address   = {Lisbon, Portugal},
+  publisher = {Association for Computational Linguistics},
+  pages     = {1925--1930},
+  url       = {http://aclweb.org/anthology/D15-1222}
+}
+
+@InProceedings{Over:2004,
+	author	={Over, Paul and Yen, James},
+	title	={An Introduction to DUC 2004 Intrinsic Evaluation of Generic New Text Summarization Systems},
+	year	={2004},
+	publisher={n Proceedings of the Document Understanding Conference (DUC)},
+
+}
+
+
+@InProceedings{Brokos:2016,
+  author    = {Brokos, Georgios-Ioannis  and  Malakasiotis, Prodromos  and  Androutsopoulos, Ion},
+  title     = {Using Centroids of Word Embeddings and Word Mover's Distance for Biomedical Document Retrieval in Question Answering},
+  booktitle = {Proceedings of the 15th Workshop on Biomedical Natural Language Processing},
+  month     = {August},
+  year      = {2016},
+  address   = {Berlin, Germany},
+  publisher = {Association for Computational Linguistics},
+  pages     = {114--118},
+  url       = {http://anthology.aclweb.org/W16-2915}
+}
+
+@Article{Tsatsaronis:2015,
+  author    = {Tsatsaronis, G. and  Balikas, G. and Malakasiotis, P. and Partalas, I. and Zschunke, M. and Alvers,  M.R. and Weissenborn, D. 						and Krithara, A. and Petridis,  S. and Polychronopoulos, D. and  Almirantis, Y. and Pavlopoulos, J. and  Baskiotis, N. and 							Gallinari, P. and Artieres, T. and  Ngonga, A. and Heino, N. and Gaussier,E. and Barrio-Alvers, L. and Schroeder, M. and 							Androutsopoulos,  I. and  Paliouras, G.},
+  title     = {An overview of the BioASQ large-scale biomedical semantic indexing and question answering competition.},
+  year      = {2015},
+  publisher = {BMC Bioinformatics},
+}
+
+@Article{Kingma:2014,
+  author    = {Kingma, Diederik and Ba, Jimmy},
+  title     = {Adam:  A method  for  stochastic  optimization},
+  year      = {2014},
+  publisher = {International Conference on Learning Representations 2015},
+}
+
+@InProceedings{Kusner:2015,
+  author    = {Kusner, M.  and Sun, Y. and Kolkin, N. and Weinberger,K. Q. },
+  title     = {From word embeddings to document distances},
+  booktitle = {In Proc. of the 32nd International Conference on Machine Learning},
+  year      = {2015},
+  address 	= {Lille, France},
+  pages 	= {957--966}
+}
+
+@Book{Manning:2008,
+  author	= {Manning, C.D.  and Raghavan, P. and Schutze, H.},
+  year		= {2008},
+  title		= {Introduction to Information Retrieval},
+  publisher	= {Cambridge University Press}
+  
+}
+
+
+
+
+

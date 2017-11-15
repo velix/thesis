@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.acl2017.template.aux
+The style file: acl_natbib.bst
+Database file #1: thesis.acl2017.template.bib
+Warning--empty journal in Kingma:2014
+Warning--empty booktitle in Lin:2004
+Warning--empty booktitle in Lin_Hovy:2003
+Warning--empty booktitle in Over:2004
+Warning--empty journal in Tsatsaronis:2015
+You've used 12 entries,
+            2936 wiz_defined-function locations,
+            679 strings with 7827 characters,
+and the built_in function-call counts, 9674 in all, are:
+= -- 730
+> -- 494
+< -- 14
++ -- 170
+- -- 150
+* -- 689
+:= -- 1357
+add.period$ -- 57
+call.type$ -- 12
+change.case$ -- 121
+chr.to.int$ -- 12
+cite$ -- 17
+duplicate$ -- 772
+empty$ -- 750
+format.name$ -- 190
+if$ -- 2025
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 157
+newline$ -- 67
+num.names$ -- 48
+pop$ -- 361
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 278
+stack$ -- 0
+substring$ -- 372
+swap$ -- 386
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 105
+warning$ -- 5
+while$ -- 60
+width$ -- 0
+write$ -- 167
+(There were 5 warnings)
